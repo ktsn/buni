@@ -1,10 +1,11 @@
 {
   "name": "buni",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "katashin",
   "description": "A tiny and uni-directional data binding library",
   "license": "MIT",
   "homepage": "https://github.com/ktsn/buni",
+  "main": "dist/buni.js",
   "scripts": {
     "prepublish": "npm run build",
     "build": "gulp build",
