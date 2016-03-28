@@ -4,6 +4,8 @@ A tiny and uni-directional data binding library
 
 ## Usage
 
+Demo: http://codepen.io/ktsn/pen/GZEXYZ
+
 ```html
 <!-- HTML -->
 <div id="wrapper">
